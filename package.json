@@ -1,0 +1,10 @@
+{
+  "name": "ccb-task-tracker",
+  "version": "1.0.0",
+  "description": "Persistent task tracking with disk output storage and background monitoring",
+  "scripts": {
+    "start": "node scripts/main.*"
+  },
+  "keywords": ["openclaw", "ccb", "task-tracker"],
+  "license": "MIT"
+}
